@@ -1,0 +1,57 @@
+# .NET build artifacts
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# Rider settings
+.idea/
+
+# Visual Studio settings
+.vs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+# Build results
+*.exe
+*.dll
+*.app
+*.pdb
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Publish
+publish/
+*.db
+
+# Docker
+Dockerfile
+docker-compose*
+
+# Git
+.git/
+
+# Others
+*.swp
+*.bak
