@@ -82,10 +82,6 @@ Settings are stored in [`appsettings.json`](UnknownCampServer.API/appsettings.js
 - Swagger UI for API testing
 - Docker support for deployment
 
-## License
-
-MIT or specify your license
-
 ---
 
 **See also:**  
